@@ -920,11 +920,11 @@ PlayerSettings:
   captureStartupLogs: {}
   activeInputHandler: 2
   windowsGamepadBackendHint: 0
-  cloudProjectId: 
+  cloudProjectId: 4a51b00f-1d2f-4a50-b86c-4815b4e33981
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: 
-  organizationId: 
+  projectName: GE3_VFXSprint1_TobyVanHattem 2026-02-09_10-53-39
+  organizationId: avajayne999
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   hmiLoadingImage: {fileID: 0}
